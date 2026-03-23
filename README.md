@@ -63,18 +63,32 @@ Most of my professional contributions live on private GitHub Enterprise accounts
 
 ## Certifications
 
-#### Active
+#### Cloud & Infrastructure
+![OCI Foundations Associate](https://img.shields.io/badge/OCI-Foundations_Associate_2024-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![FinOps](https://img.shields.io/badge/FinOps-Introduction-00875A?style=for-the-badge&logo=linuxfoundation&logoColor=white)
+
+#### DevOps & Tools
+![Docker Foundations](https://img.shields.io/badge/Docker-Foundations_Professional-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Professional](https://img.shields.io/badge/GitHub-Career_Essentials-181717?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu Professional](https://img.shields.io/badge/Canonical-Ubuntu_Linux_Professional-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+#### AI & Emerging Tech
+![Responsible AI](https://img.shields.io/badge/All_Tech_Is_Human-Responsible_AI_Foundations-6236FF?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Anthropic-Claude_Code_In_Action-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GenAI Essentials](https://img.shields.io/badge/Microsoft-Generative_AI_Essentials-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Copilot Productivity](https://img.shields.io/badge/Microsoft-Copilot_for_Productivity-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+
+#### General IT
 ![Google IT Support](https://img.shields.io/badge/Google-IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google CompTIA Dual](https://img.shields.io/badge/Google/CompTIA-Dual_Credential-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LPI Linux Essentials](https://img.shields.io/badge/LPI-Linux_Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MTA Networking](https://img.shields.io/badge/Microsoft-MTA:_Networking-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-![MTA Security](https://img.shields.io/badge/Microsoft-MTA:_Security-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-![MCP](https://img.shields.io/badge/Microsoft-MCP-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 
 #### Expired
 ![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Associate_(Expired)-545454?style=for-the-badge&logo=amazon-aws&logoColor=999999)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud-Practitioner_(Expired)-545454?style=for-the-badge&logo=amazon-aws&logoColor=999999)
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A+_(Expired)-545454?style=for-the-badge&logo=comptia&logoColor=999999)
+![cPanel Professional](https://img.shields.io/badge/cPanel-Professional_(Expired)-545454?style=for-the-badge&logo=cpanel&logoColor=999999)
 
 ---
 

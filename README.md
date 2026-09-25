@@ -95,7 +95,6 @@ Most of my professional contributions live on private GitHub Enterprise accounts
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eSKylezZ&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eSKylezZ&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 

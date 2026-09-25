@@ -13,7 +13,7 @@ Building, automating, and scaling cloud infrastructure in financial services.
 
 I'm an Infrastructure Engineer at **Lloyds Bank** with 8+ years of experience designing, building, and automating cloud infrastructure. My work spans IaC, CI/CD pipelines, monitoring, and platform reliability across enterprise-scale environments in financial services.
 
-Most of my professional contributions live on private GitHub Enterprise accounts for **Tesco Bank** and **CirrusHQ** — so my public contribution graph doesn't tell the full story. I'm actively building out my public portfolio to better showcase what I work on day to day.
+Most of my professional contributions live on private GitHub Enterprise accounts for **Lloyds Bank** , **Tesco Bank** and **CirrusHQ** — so my public contribution graph doesn't tell the full story. I'm actively building out my public portfolio to better showcase what I work on day to day or what I fine interesting.
 
 ---
 
